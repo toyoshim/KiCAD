@@ -1,3 +1,6 @@
 [submodule "LQFP48-Breakout"]
 	path = LQFP48-Breakout
 	url = git@github.com:toyoshim/LQFP48-Breakout.git
+[submodule "_Library/digikey-kicad-library"]
+	path = _Library/digikey-kicad-library
+	url = https://github.com/Digi-Key/digikey-kicad-library.git
