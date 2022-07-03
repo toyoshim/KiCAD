@@ -4,3 +4,6 @@
 [submodule "_Library/digikey-kicad-library"]
 	path = _Library/digikey-kicad-library
 	url = https://github.com/Digi-Key/digikey-kicad-library.git
+[submodule "_Library/toyoshim-kicad-public-library"]
+	path = _Library/toyoshim-kicad-public-library
+	url = git@github.com:toyoshim/toyoshim-kicad-public-library.git
