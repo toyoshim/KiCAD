@@ -1,0 +1,3 @@
+[submodule "LQFP48-Breakout"]
+	path = LQFP48-Breakout
+	url = git@github.com:toyoshim/LQFP48-Breakout.git
