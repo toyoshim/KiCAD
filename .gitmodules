@@ -7,3 +7,6 @@
 [submodule "_Library/toyoshim-kicad-public-library"]
 	path = _Library/toyoshim-kicad-public-library
 	url = git@github.com:toyoshim/toyoshim-kicad-public-library.git
+[submodule "IONA-JS3"]
+	path = IONA-JS3
+	url = git@github.com:toyoshim/IONA-JS3.git
