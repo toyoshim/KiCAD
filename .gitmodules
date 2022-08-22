@@ -10,3 +10,6 @@
 [submodule "IONA-JS3"]
 	path = IONA-JS3
 	url = git@github.com:toyoshim/IONA-JS3.git
+[submodule "PENGO2JAMMA"]
+	path = PENGO2JAMMA
+	url = git@github.com:toyoshim/PENGO2JAMMA.git
