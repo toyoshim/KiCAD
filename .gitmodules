@@ -19,3 +19,6 @@
 [submodule "MahJamma"]
 	path = MahJamma
 	url = git@github.com:toyoshim/MahJamma.git
+[submodule "MPGKRom"]
+	path = MPGKRom
+	url = git@github.com:toyoshim/MPGKRom.git
