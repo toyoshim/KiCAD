@@ -13,3 +13,9 @@
 [submodule "PENGO2JAMMA"]
 	path = PENGO2JAMMA
 	url = git@github.com:toyoshim/PENGO2JAMMA.git
+[submodule "Jasmin"]
+	path = Jasmin
+	url = git@github.com:toyoshim/Jasmin.git
+[submodule "MahJamma"]
+	path = MahJamma
+	url = git@github.com:toyoshim/MahJamma.git
