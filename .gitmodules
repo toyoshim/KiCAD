@@ -22,3 +22,6 @@
 [submodule "MPGKRom"]
 	path = MPGKRom
 	url = git@github.com:toyoshim/MPGKRom.git
+[submodule "IONA-US3"]
+	path = IONA-US3
+	url = git@github.com:toyoshim/IONA-US3.git
