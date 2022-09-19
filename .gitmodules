@@ -28,3 +28,6 @@
 [submodule "IONA-SB"]
 	path = IONA-SB
 	url = git@github.com:toyoshim/IONA-SB.git
+[submodule "EPM3032_DEV"]
+	path = EPM3032_DEV
+	url = git@github.com:toyoshim/EPM3032_DEV.git
