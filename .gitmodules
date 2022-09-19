@@ -25,3 +25,6 @@
 [submodule "IONA-US3"]
 	path = IONA-US3
 	url = git@github.com:toyoshim/IONA-US3.git
+[submodule "IONA-SB"]
+	path = IONA-SB
+	url = git@github.com:toyoshim/IONA-SB.git
