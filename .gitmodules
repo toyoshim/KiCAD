@@ -31,3 +31,6 @@
 [submodule "EPM3032_DEV"]
 	path = EPM3032_DEV
 	url = git@github.com:toyoshim/EPM3032_DEV.git
+[submodule "A2E_Test"]
+	path = A2E_Test
+	url = git@github.com:toyoshim/A2E_Test.git
