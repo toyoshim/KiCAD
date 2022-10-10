@@ -34,3 +34,6 @@
 [submodule "A2E_Test"]
 	path = A2E_Test
 	url = git@github.com:toyoshim/A2E_Test.git
+[submodule "PCCardReader"]
+	path = PCCardReader
+	url = git@github.com:toyoshim/PCCardReader.git
