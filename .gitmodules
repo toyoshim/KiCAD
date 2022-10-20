@@ -37,3 +37,6 @@
 [submodule "PCCardReader"]
 	path = PCCardReader
 	url = git@github.com:toyoshim/PCCardReader.git
+[submodule "Spica"]
+	path = Spica
+	url = git@github.com:toyoshim/Spica.git
