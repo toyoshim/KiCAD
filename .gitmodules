@@ -43,3 +43,6 @@
 [submodule "Subaru"]
 	path = Subaru
 	url = git@github.com:toyoshim/Subaru.git
+[submodule "KU88"]
+	path = KU88
+	url = git@github.com:toyoshim/KU88.git
