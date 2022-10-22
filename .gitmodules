@@ -40,3 +40,6 @@
 [submodule "Spica"]
 	path = Spica
 	url = git@github.com:toyoshim/Spica.git
+[submodule "Subaru"]
+	path = Subaru
+	url = git@github.com:toyoshim/Subaru.git
