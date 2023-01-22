@@ -1,54 +1,54 @@
 [submodule "LQFP48-Breakout"]
 	path = LQFP48-Breakout
-	url = git@github.com:toyoshim/LQFP48-Breakout.git
+	url = https://github.com/toyoshim/LQFP48-Breakout.git
 [submodule "_Library/digikey-kicad-library"]
 	path = _Library/digikey-kicad-library
 	url = https://github.com/Digi-Key/digikey-kicad-library.git
 [submodule "_Library/toyoshim-kicad-public-library"]
 	path = _Library/toyoshim-kicad-public-library
-	url = git@github.com:toyoshim/toyoshim-kicad-public-library.git
+	url = https://github.com/toyoshim/toyoshim-kicad-public-library.git
 [submodule "IONA-JS3"]
 	path = IONA-JS3
-	url = git@github.com:toyoshim/IONA-JS3.git
+	url = https://github.com/toyoshim/IONA-JS3.git
 [submodule "PENGO2JAMMA"]
 	path = PENGO2JAMMA
-	url = git@github.com:toyoshim/PENGO2JAMMA.git
+	url = https://github.com/toyoshim/PENGO2JAMMA.git
 [submodule "Jasmin"]
 	path = Jasmin
-	url = git@github.com:toyoshim/Jasmin.git
+	url = https://github.com/toyoshim/Jasmin.git
 [submodule "MahJamma"]
 	path = MahJamma
-	url = git@github.com:toyoshim/MahJamma.git
+	url = https://github.com/toyoshim/MahJamma.git
 [submodule "MPGKRom"]
 	path = MPGKRom
-	url = git@github.com:toyoshim/MPGKRom.git
+	url = https://github.com/toyoshim/MPGKRom.git
 [submodule "IONA-US3"]
 	path = IONA-US3
-	url = git@github.com:toyoshim/IONA-US3.git
+	url = https://github.com/toyoshim/IONA-US3.git
 [submodule "IONA-SB"]
 	path = IONA-SB
-	url = git@github.com:toyoshim/IONA-SB.git
+	url = https://github.com/toyoshim/IONA-SB.git
 [submodule "EPM3032_DEV"]
 	path = EPM3032_DEV
-	url = git@github.com:toyoshim/EPM3032_DEV.git
+	url = https://github.com/toyoshim/EPM3032_DEV.git
 [submodule "A2E_Test"]
 	path = A2E_Test
-	url = git@github.com:toyoshim/A2E_Test.git
+	url = https://github.com/toyoshim/A2E_Test.git
 [submodule "PCCardReader"]
 	path = PCCardReader
-	url = git@github.com:toyoshim/PCCardReader.git
+	url = https://github.com/toyoshim/PCCardReader.git
 [submodule "Spica"]
 	path = Spica
-	url = git@github.com:toyoshim/Spica.git
+	url = https://github.com/toyoshim/Spica.git
 [submodule "Subaru"]
 	path = Subaru
-	url = git@github.com:toyoshim/Subaru.git
+	url = https://github.com/toyoshim/Subaru.git
 [submodule "KU88"]
 	path = KU88
-	url = git@github.com:toyoshim/KU88.git
+	url = https://github.com/toyoshim/KU88.git
 [submodule "PicoPi-1"]
 	path = PicoPi-1
-	url = git@github.com:toyoshim/PicoPi-1.git
+	url = https://github.com/toyoshim/PicoPi-1.git
 [submodule "AD1868I2S"]
 	path = AD1868I2S
 	url = https://github.com/toyoshim/AD1868I2S.git
