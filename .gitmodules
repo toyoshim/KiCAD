@@ -52,3 +52,6 @@
 [submodule "AD1868I2S"]
 	path = AD1868I2S
 	url = https://github.com/toyoshim/AD1868I2S.git
+[submodule "IONA-H2"]
+	path = IONA-H2
+	url = git@github.com:toyoshim/IONA-H2.git
