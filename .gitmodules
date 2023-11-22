@@ -55,6 +55,9 @@
 [submodule "IONA-H2"]
 	path = IONA-H2
 	url = git@github.com:toyoshim/IONA-H2.git
-[submodule "JoynerX"]
-	path = JoynerX
-	url = https://github.com/toyoshim/JoynerX.git
+[submodule "Moonshot"]
+	path = Moonshot
+	url = https://github.com/toyoshim/Moonshot.git
+[submodule "Chelconv"]
+	path = Chelconv
+	url = https://github.com/toyoshim/Chelconv.git
