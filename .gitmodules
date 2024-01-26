@@ -61,3 +61,12 @@
 [submodule "Chelconv"]
 	path = Chelconv
 	url = https://github.com/toyoshim/Chelconv.git
+[submodule "CH32V203C8T6EV"]
+	path = CH32V203C8T6EV
+	url = git@github.com:toyoshim/CH32V203C8T6EV.git
+[submodule "Moonsalt"]
+	path = Moonsalt
+	url = git@github.com:toyoshim/Moonsalt.git
+[submodule "Moonphase"]
+	path = Moonphase
+	url = git@github.com:toyoshim/Moonphase.git
