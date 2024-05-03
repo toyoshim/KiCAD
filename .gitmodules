@@ -70,3 +70,9 @@
 [submodule "Moonphase"]
 	path = Moonphase
 	url = git@github.com:toyoshim/Moonphase.git
+[submodule "MellowPSA"]
+	path = MellowPSA
+	url = git@github.com:toyoshim/MellowPSA.git
+[submodule "Sirius"]
+	path = Sirius
+	url = git@github.com:toyoshim/Sirius.git
